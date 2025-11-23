@@ -1,0 +1,10 @@
+/_assets
+.DS_Store
+/.vscode
+/audio_work.ipynb
+/libtorchcodec_core4.dll
+/libtorchcodec_core5.dll
+/libtorchcodec_core6.dll
+/libtorchcodec_core8.dll
+/libtorchcodec_core7.dll
+/my_finetuned_wav2vec2_minds14
